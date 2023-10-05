@@ -1,2 +1,2 @@
 #!/bin/bash
-escho "Best School"
+echo "Best School"
